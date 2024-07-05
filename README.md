@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Dwayne Blackman and I'm new here
+My name is Dwayne and I'm new here
 <!--
 **ForeignLogic/ForeignLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
